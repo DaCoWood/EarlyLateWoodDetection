@@ -1,0 +1,1 @@
+Converting an image to black and white pixels and comparing to get an aproximate ratio of the early/latewood.
